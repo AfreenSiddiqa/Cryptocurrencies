@@ -15,9 +15,11 @@ What You're Creating
 Deliverable 1: Preprocessing the Data for PCA
 ![image](https://user-images.githubusercontent.com/93686963/158729082-555c7467-ee02-402e-b1b7-a48525b21871.png)
 
+
 Deliverable 2: Reducing Data Dimensions Using PCA
 
 ![image](https://user-images.githubusercontent.com/93686963/158729157-4d49264d-718e-451e-a7c1-5b4b37ac4aa8.png)
+
 
 Deliverable 3: Clustering Cryptocurrencies Using K-means
 
