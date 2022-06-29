@@ -11,6 +11,7 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 What You're Creating
 
+
 Deliverable 1: Preprocessing the Data for PCA
 ![image](https://user-images.githubusercontent.com/93686963/158729082-555c7467-ee02-402e-b1b7-a48525b21871.png)
 
